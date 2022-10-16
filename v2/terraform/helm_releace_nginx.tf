@@ -1,5 +1,5 @@
 resource "helm_release" "hextris" {
-  name = "hetrix-chart"
+  name = "hextris-chart"
   chart = "."
   repository = "./hextris-chart"
   namespace = var.namespace_name
