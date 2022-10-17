@@ -18,8 +18,8 @@ After downloading the tools and running the installation instructions we are rea
 
 ### Version 1 of the exercise *(without dockerfile)*
 
-For the first verison of our app, instructions and description can be found [here]()
+For the first verison of our app, instructions and description can be found [here](https://github.com/GiorgosT97/hextris-exercise/tree/master/v1)
 
 ### Version 2 of the exercise *(with dockerfile)*
 
-For the second verison of our app, instructions and description can be found [here]()
+For the second verison of our app, instructions and description can be found [here](https://github.com/GiorgosT97/hextris-exercise/tree/master/v2)
