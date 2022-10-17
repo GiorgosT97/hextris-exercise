@@ -23,7 +23,7 @@ CMD ["nginx", "-g", "daemon off;"]
 ```
 What we do here is basically create a nginx container and move our static content to the public nginx folder. Also we expose the port 80 and run the nginx server.
 
-At this point we can run a `docker build` and `run` to check if everything is ok and then tag the container and `docker push` our container to dockerhub (or any other public container repo we want).
+At this point we can run a `docker build` and `run` to check if everything is ok and then tag the container and `docker push` our container to [dockerhub](https://hub.docker.com/r/bitleaf/hextris-app) (or any other public container repo we want).
 
 ---
 #### Helm
